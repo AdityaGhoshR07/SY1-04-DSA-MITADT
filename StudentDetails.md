@@ -1,7 +1,7 @@
-# APP-SY1-A-04AdityaGhosh
+# DSA-SY1-A-04AdityaGhosh
 # Course Detail
-Course Name: Advanced Python Programming  
-Course Faculty: Prof. Nitin Alzende
+Course Name: Data Structure and Algorithm  
+Course Faculty: Prof. Dr. Abhishek M. Dhore
 # Student Detail
 Name: Aditya Ghosh Hazra  
 Enrollment Number: ADT25SOCB0065  
